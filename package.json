@@ -1,5 +1,5 @@
 {
-  "name": "inquirer-calculator",
+  "name": "mrobs.inquirer-calculator",
   "version": "1.0.0",
   "description": "Simple calculator with typescript, node js and Inquirer",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Syed Osama",
+  "author": "Syed Osama bin shahid",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
